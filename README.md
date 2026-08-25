@@ -19,7 +19,7 @@ The panel utilizes industry-standard components for high-use professional enviro
 
 ## Repository Contents
 * `Factory_MCC_Dual_Drive.zw1` - The master EPLAN project backup file (Source).
-* `MCC_Schematics_and_Layout.pdf` - Universal PDF export of the 2D schematics and 3D views.
+* `MCC_Schematics_and_Layout.pdf` - Universal PDF export of the 2D schematics.
 * `Summarized_BOM.pdf` - The complete hardware purchasing list.
 
 ## Visuals
