@@ -1,9 +1,9 @@
 # Dual-Drive Motor Control Center (MCC) - Digital Twin
 
 ## Overview
-This repository contains the complete engineering data and 1:1 digital twin for an industrial Dual-Drive Motor Control Center. Designed for robust factory deployment, the panel is engineered to manage three-phase motors safely while optimizing cabinet space and thermal layout. 
+This repository contains the complete engineering data and 1:1 digital twin for an industrial Dual-Drive Motor Control Center. Designed for factory deployment, the panel is engineered to manage three-phase motors while optimizing cabinet space. 
 
-The project was developed using EPLAN Pro Panel, moving from 2D logical schematics to a fully routed, clash-free 3D physical assembly.
+The project was developed using EPLAN Pro Panel, moving from 2D logical schematics to a fully routed, 3D physical assembly.
 
 ## Key Engineering Features
 * **1:1 Digital Twin:** Complete 3D layout within a Rittal compact enclosure, ensuring physical spatial constraints are met before manufacturing.
@@ -20,8 +20,7 @@ The panel utilizes industry-standard components for high-use professional enviro
 ## Repository Contents
 * `Factory_MCC_Dual_Drive.zw1` - The master EPLAN project backup file (Source).
 * `MCC_Schematics_and_Layout.pdf` - Universal PDF export of the 2D schematics and 3D views.
-* `Summarized_BOM.xlsx` - The complete hardware purchasing list.
-* `Wire_Connection_List.xlsx` - Assembly sheet detailing exact wire gauges, sources, targets, and cut lengths in millimeters.
+* `Summarized_BOM.pdf` - The complete hardware purchasing list.
 
 ## Visuals
 
